@@ -14,7 +14,7 @@ def SMS_sender(todos):
         message = client.messages.create(
             from_="+19123197793",
             body=todo,
-            to="+21656126611",
+            to="",
         )
 
         print(f"SID:{message.sid} \nStatus:{message.status}")

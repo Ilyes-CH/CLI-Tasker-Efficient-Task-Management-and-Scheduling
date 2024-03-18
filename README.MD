@@ -8,9 +8,9 @@ The project is divided into two main files:
 
 ![Screenshot](https://github.com/Ilyes-CH/CLI-Tasker-Efficient-Task-Management-and-Scheduling/blob/master/imgs/s1.png)
 
-![Screenshot](imgs/s2.png.png)
+![Screenshot](https://github.com/Ilyes-CH/CLI-Tasker-Efficient-Task-Management-and-Scheduling/blob/master/imgs/s2.png)
 
-![Screenshot](imgs/s3.png.png)
+![Screenshot](https://github.com/Ilyes-CH/CLI-Tasker-Efficient-Task-Management-and-Scheduling/blob/master/imgs/s3.png)
 
 
 ## Installation

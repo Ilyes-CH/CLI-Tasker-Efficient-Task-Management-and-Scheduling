@@ -6,7 +6,7 @@ The project is divided into two main files:
 1. **SMS_Sender.py**: Handles the SMS sending functionality and scheduling logic.
 2. **Todo_app.py**: Contains the main logic for the Todo application and the option to run SMS sending functionality as a daemon.
 
-![Screenshot](imgs/s1.png.png)
+![Screenshot](https://github.com/Ilyes-CH/CLI-Tasker-Efficient-Task-Management-and-Scheduling/blob/master/imgs/s1.png)
 
 ![Screenshot](imgs/s2.png.png)
 

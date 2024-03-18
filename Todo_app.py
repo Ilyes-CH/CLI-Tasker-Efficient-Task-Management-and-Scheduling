@@ -241,8 +241,8 @@ cli.add_command(delete_all)
 cli.add_command(about)
 # Call the click.command() decorated functions directly
 if __name__ == '__main__':
-    scan_thread = threading.Thread(target=initiate_scan, daemon=True)
-    schedule.every().day.at("04:00").do(scan_thread.start)
-    scan_thread.start()  # Start the thread
+   #scan_thread = threading.Thread(target=initiate_scan, daemon=True)
+    #schedule.every().day.at("04:00").do(scan_thread.start)
+    #scan_thread.start()  # Start the thread
     cli()
 
